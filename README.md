@@ -11,6 +11,17 @@
 
 This consists of an API used to get the dollar quote on a given day.
 
+## Demo
+### Successfull response
+<p align="center">
+    <img src="./docs/response-ok.png" width="100%"/>
+</p>
+
+### Quote Not Found
+<p align="center">
+    <img src="./docs/response-not-found.png" width="100%" />
+</p>
+
 ## Getting Started
 
 ### **Prerequisites**
