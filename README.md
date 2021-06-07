@@ -9,7 +9,7 @@
 </p>
 </h1>
 
-This consists of an API used to get the dollar quote on a given day.
+This consists of an API used to get the dollar quote on a given day. The requests are logged in a sqlite database. 
 
 ## Demo
 ### Successfull response
