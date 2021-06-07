@@ -12,7 +12,7 @@
 This consists of an API used to get the dollar quote on a given day. The requests are logged in a sqlite database. 
 
 ## Demo
-### Successfull response
+### Successfull Response
 <p align="center">
     <img src="./docs/response-ok.png" width="100%"/>
 </p>
