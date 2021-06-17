@@ -29,6 +29,7 @@ This consists of an API used to get the dollar quote on a given day. The request
 - It is **necessary** to have **[Node.js](https://nodejs.org/en/)** installed on the machine;
 - Also, it is **necessary** to have a package manager either **[NPM](https://www.npmjs.com/)** or **[Yarn](https://yarnpkg.com/)**;
 
+### **Running**
 
 1. Make a clone:
 
